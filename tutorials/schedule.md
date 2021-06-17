@@ -6,7 +6,7 @@ All days (except W1D2, W2D5, and W3D5) will follow this schedule for course time
 |    0:00-0:15     |    Pod discussion I                   |                                      
 |    0:15-1:45     |    Tutorials + nano-lectures I        |    
 |    1:45-2:45     |    Big break                 |    
-|    2:45-4:15     |    Tutorials + nano-lectures I      |   
+|    2:45-4:15     |    Tutorials + nano-lectures II      |   
 |    4:15-4:25    |    Pod dicussion II       |    
 |    4:25-4:30    |    Evaluation Report                |    
 |    4:35-5:05**     |    Outro                              |
